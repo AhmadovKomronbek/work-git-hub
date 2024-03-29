@@ -6,4 +6,4 @@ PURPLE = "\033[0;35m"
 
 
 
-# Komron men seni faylining uzkartirdim neb abubakir
+# Komron men seni faylining uzkartirdim men Abubakr
